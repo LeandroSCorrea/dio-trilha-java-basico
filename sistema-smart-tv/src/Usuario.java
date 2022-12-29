@@ -6,7 +6,7 @@ public class Usuario {
         smartv.diminuirVolume();
         smartv.diminuirVolume();
         smartv.aumentarVolume();
-
+        
         System.out.println("Canal atual: " + smartv.canal);
 
         System.out.println("volume atual: " + smartv.volume);
